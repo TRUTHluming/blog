@@ -34,8 +34,8 @@ jobs:
     - name: Hexo Deploy           # 部署步骤，这里以 hexo deploy 为例
       env:
         SSH_PRIVATE: ${{ secrets.SSH_PRIVATE }}
-        GIT_NAME: yourname
-        GIT_EMAIL: your@email.com
+        GIT_NAME: TRUTHluming
+        GIT_EMAIL: lutiansuo114514@outlook.com
       run: |
         mkdir -p ~/.ssh/
         echo "$SSH_PRIVATE" | tr -d '\r' > ~/.ssh/id_rsa
