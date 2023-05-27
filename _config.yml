@@ -8,7 +8,7 @@ subtitle: '114514'
 description: ''
 keywords:
 author: 陆田所
-language: en
+language: zh_CN
 timezone: ''
 
 # URL
@@ -103,3 +103,14 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# Security
+encrypt: # hexo-blog-encrypt
+  theme: xray
+  abstract: 文章已加密
+  message: 请输入密码
+  # tags:
+  # - {name: tagName, password: 密码A}
+  # - {name: tagName, password: 密码B}
+  wrong_pass_message: 密码错误
+  wrong_hash_message: 文章校验失败

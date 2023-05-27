@@ -1,0 +1,19 @@
+- class_name: OJ
+  class_desc: OJ罢了
+  link_list:
+    - name: TZHSOJ
+      link: https://tzhsoj.com/
+      avatar: https://tzhsoj.com/favicon.ico
+      descr: 校内OJ
+      
+- class_name: OIer
+  class_desc: 狐朋狗友
+  link_list:
+    - name: Florance
+      link: https://www.FloranceYeh.netlify.app
+      avatar: https://floranceyeh.netlify.app/images/Florance.png
+      descr: Florance's Blog
+    - name: ERA_YES
+      link: https://www.cnblogs.com/EraYEs
+      avator: https://pic.cnblogs.com/avatar/3163018/20230520173717.png
+      descr: ERA's Blog
