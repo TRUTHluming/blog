@@ -655,7 +655,7 @@ enter_transitions: true
 # Typewriter Effect (打字效果)
 # https://github.com/disjukr/activate-power-mode
 activate_power_mode:
-  enable: false
+  enable: true
   colorful: true # open particle animation (冒光特效)
   shake: true #  open shake (抖動特效)
   mobile: false
@@ -757,6 +757,7 @@ subtitle:
   # subtitle 會先顯示 source , 再顯示 sub 的內容
   
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
+  source: 1
   sub: 'everything that kills me makes me feel alive'
 
 # Loading Animation (加載動畫)
