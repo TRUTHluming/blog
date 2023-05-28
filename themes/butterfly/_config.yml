@@ -616,13 +616,13 @@ theme_color:
   link_color: "#AAAAAA"
   meta_color: "#AAAAAA"
   hr_color: "#AAAAAA"
-  code_foreground: "AAAAAA"
+  code_foreground: "#AAAAAA"
   code_background: "rgba(27, 31, 35, .05)"
   toc_color: "#AAAAAA"
   blockquote_padding_color: "#AAAAAA"
   blockquote_background_color: "#AAAAAA"
   scrollbar_color: "#AAAAAA"
-  meta_theme_color_light: "ffffff"
+  meta_theme_color_light: "#AAAAAA"
   meta_theme_color_dark: "#0d0d0d"
 
 # The top_img settings of home page
