@@ -9,11 +9,12 @@
 - class_name: OIer
   class_desc: 狐朋狗友
   link_list:
+    - name: ERA_YES
+      link: https://page.EraYEs.top
+      avator: https://raw.githubusercontent.com/ERA-YES/github.io/main/img/icon/512.png
+      descr: ERA's Blog
     - name: Florance
       link: https://Florance.eu.org
       avatar: https://florance.eu.org/images/Florance.png
       descr: Florance's Blog
-    - name: ERA_YES
-      link: https://page.EraYEs.top
-      avator: https://raw.githubusercontent.com/ERA-YES/github.io/main/img/icon/32.png
-      descr: ERA's Blog
+    
