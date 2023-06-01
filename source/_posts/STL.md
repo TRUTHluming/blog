@@ -1,6 +1,6 @@
 ---
 title: STL天下第一！！！
-date: 0
+date: 2023-5-1
 tags: STL
 ---
 
@@ -45,7 +45,7 @@ push将元素插入尾部，pop将元素从头部移除
 ``back``   
 (大同小异所以不再详解)   
 2. 优先队列``priority_queue``
-``push``  
+``push`  
 ``pop``   
 ``top`` (查询堆顶元素/默认为最大值)   
 ### 细谈优先队列   
