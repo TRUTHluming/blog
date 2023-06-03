@@ -611,18 +611,18 @@ theme_color:
   enable: true
   main: "#AAAAAA"
   paginator: "#FF3333"
-  button_hover: "#AAAAAA"
+  button_hover: "#DC143C"
   text_selection: "#AAAAAA"
-  link_color: "#AAAAAA"
-  meta_color: "#AAAAAA"
+  link_color: "#DC143C"
+  meta_color: "#DC143C"
   hr_color: "#AAAAAA"
-  code_foreground: "#AAAAAA"
+  code_foreground: "#DC143C"
   code_background: "rgba(27, 31, 35, .05)"
   toc_color: "#AAAAAA"
   blockquote_padding_color: "#AAAAAA"
-  blockquote_background_color: "#AAAAAA"
+  blockquote_background_color: "#DC143C"
   scrollbar_color: "#AAAAAA"
-  meta_theme_color_light: "#AAAAAA"
+  meta_theme_color_light: "#DC143C"
   meta_theme_color_dark: "#0d0d0d"
 
 # The top_img settings of home page
@@ -641,7 +641,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background:
+background: "#DC143C"
 
 # Footer Background
 footer_bg: false
