@@ -609,21 +609,21 @@ site_verification:
 
 theme_color:
   enable: true
-  main: "#AAAAAA"
-  paginator: "#FF3333"
-  button_hover: "#DC143C"
-  text_selection: "#AAAAAA"
-  link_color: "#DC143C"
-  meta_color: "#DC143C"
-  hr_color: "#AAAAAA"
-  code_foreground: "#DC143C"
-  code_background: "rgba(27, 31, 35, .05)"
-  toc_color: "#AAAAAA"
-  blockquote_padding_color: "#AAAAAA"
-  blockquote_background_color: "#DC143C"
-  scrollbar_color: "#AAAAAA"
-  meta_theme_color_light: "#DC143C"
-  meta_theme_color_dark: "#0d0d0d"
+  main: "#00FF00"
+  paginator: "#00FF00"
+  button_hover: "#00FF00"
+  text_selection: "#00FF00"
+  link_color: "#00FF00"
+  meta_color: "#00FF00"
+  hr_color: "#00FF00"
+  code_foreground: "#00FF00"
+  code_background: "#00FF00"
+  toc_color: "#00FF00"
+  blockquote_padding_color: "#00FF00"
+  blockquote_background_color: "#00FF00"
+  scrollbar_color: "#00FF00"
+  meta_theme_color_light: "#00FF00"
+  meta_theme_color_dark: "#00FF00"
 
 # The top_img settings of home page
 # default: top img - full screen, site info - middle (默認top_img全屏，site_info在中間)
