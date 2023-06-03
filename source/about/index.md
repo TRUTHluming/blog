@@ -13,7 +13,7 @@ top_img: https://cdn.luogu.com.cn/upload/image_hosting/avyrdbn0.png
 
 # 关于此站
 
-是florance给写的，虽然有不知道多少的问题，但是目前能用。且基于florance的懒惰，大抵不会有太多再改变。
+是florance给写的，虽然有不知道多少的问题，但是目前能用。且基于florance的``懒惰``，大抵不会有太多再改变。
 
 也许一些算法笔记与日常会放在这里，也或许会发发电。
 
