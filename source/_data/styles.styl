@@ -1,0 +1,43 @@
+//全局布局美化代码 
+body { 
+    background-image:url(/images/Background.jpg); //背景图片地址 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-position: center; 
+}
+
+//博客内容透明化 //文章内容的透明度设置 
+.content-wrap { 
+    opacity: 0.85; 
+}
+
+//菜单栏的透明度设置 
+.header-inner { 
+    background: rgba(255,255,255,0.85); 
+    border-radius: 0px 0px 30px 30px; //边框圆角 
+    box-shadow: 8px 7px 2px 0 rgba(0,0,0,0.12), 7px 4px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12); 
+}
+
+//搜索框（local-search）的透明度设置 
+.popup { 
+    opacity: 0.85; 
+}
+
+//第一篇博客样式 
+.post-block { 
+    background-color: rgba(255, 255, 255, 1); 
+    margin-bottom: 24px; 
+    padding: 20px; 
+    border-radius: 0px 0px 30px 30px; 
+    box-shadow: 8px 7px 2px 0 rgba(0,0,0,0.12), 7px 4px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12); 
+}
+
+//除第一篇博客之外的博客样式 
+.post-block + .post-block { 
+    background-color: rgba(255, 255, 255, 1); 
+    //margin-top: 24px; 
+    margin-bottom: 24px; 
+    padding: 20px; 
+    border-radius: 30px 30px 30px 30px; 
+    box-shadow: 8px 7px 2px 0 rgba(0,0,0,0.12), 7px 4px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12); 
+}
