@@ -348,7 +348,7 @@ mobile_layout_economy: false
 
 # Browser header panel color.
 theme_color:
-  light: "#222"
+  light: "#DC143C"
   dark: "#222"
 
 # Override browsers' default behavior.
