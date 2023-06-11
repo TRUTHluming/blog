@@ -349,7 +349,7 @@ mobile_layout_economy: false
 # Browser header panel color.
 theme_color:
   light: "#DC143C"
-  dark: "#222"
+  dark: "#DC143C"
 
 # Override browsers' default behavior.
 body_scrollbar:
