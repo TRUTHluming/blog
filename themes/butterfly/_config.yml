@@ -491,14 +491,13 @@ twikoo:
 # Giscus
 # https://giscus.app/
 giscus:
-  repo: TRUTHluming/blog
-  repo_id: R_kgDOJnZ7sA
-  category_id: DIC_kwDOJnZ7sM4CWwi4
+  repo: TRUTHluming/TRUTHluming.github.io
+  repo_id: R_kgDOJq7Sbw
+  category_id: DIC_kwDOJq7Sb84CXQdJ
   theme:
     light: light
     dark: dark
   option:
-  lang: zh-CN
 
 # Remark42
 # https://remark42.com/docs/configuration/frontend/
