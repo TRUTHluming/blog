@@ -2,7 +2,7 @@
 title: STL天下第一！！！
 date: 0
 tags: STL
-categroies: OI
+categories: OI
 ---
 
 
