@@ -5,12 +5,16 @@
       link: https://tzhsoj.com/
       avatar: https://tzhsoj.com/favicon.ico
       descr: 校内OJ
+    - name: 洛谷
+      link: https://www.luogu.com.cn/
+      avatar: https://cdn.luogu.com.cn/fe/logo-single.png?0a231b572e3eb12887faedad7d00e829
+      descr: 大抵不用介绍
       
 - class_name: OIer
   class_desc: 狐朋狗友
   link_list:
     - name: Florance
-      link: https://www.FloranceYeh.netlify.app
+      link: https://florance.eu.org/
       avatar: https://floranceyeh.netlify.app/images/Florance.png
       descr: Florance's Blog
     - name: ERA_YES
